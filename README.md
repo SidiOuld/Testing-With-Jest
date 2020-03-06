@@ -1,2 +1,2 @@
-# jest-testing
-# Practicing writing unit tests
+# Jest-testing
+# Practicing unit tests with Jest
